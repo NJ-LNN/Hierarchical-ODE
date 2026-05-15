@@ -29,8 +29,8 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 print(f"Using device: {device}")
 
 
-CURRENT_USER_NAME = 'yaozhiran'
-# chenzhilin,huxinyu,huxinyu2,liucunyang,yaozhiran,zhoujun
+CURRENT_USER_NAME = 'Scenario1'
+
 
 
 BASE_MODEL_DIR = 
