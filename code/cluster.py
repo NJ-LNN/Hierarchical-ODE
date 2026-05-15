@@ -38,7 +38,7 @@ BASE_MODEL_DIR =
 CONFIG = {
 
     'MODEL_PATHS': {
-        'ODE': f"C:/Users/MINT/Desktop/20241111华为wifi切换/data0113/template/{CURRENT_USER_NAME}/node_gru_autoencoder.pth",
+        'ODE': f"C:/Users/MINT/Desktop/template/{CURRENT_USER_NAME}/node_gru_autoencoder.pth",
         'ResNet': f"{BASE_MODEL_DIR}/{CURRENT_USER_NAME}/resnet_autoencoder.pth",
         'LSTM': f"{BASE_MODEL_DIR}/{CURRENT_USER_NAME}/lstm_autoencoder.pth",
         'GRU': f"{BASE_MODEL_DIR}/{CURRENT_USER_NAME}/gru_autoencoder.pth"
